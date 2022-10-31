@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mirzaahmed93
 - 👀 I’m interested in learning more about Data Science techniques and analysis
-- 🌱 I’m currently learning R-studio, I am open and actively engaging in learning new open source programs
-- 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me -> You can message me here about specific projects that I can engage in 
+- 🌱 I’m currently learning Python, R-studio, I am open and actively engaging in learning new open source program 
 
 <!---
 mirzaahmed93/mirzaahmed93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
